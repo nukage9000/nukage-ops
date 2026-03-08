@@ -9,6 +9,48 @@ Legend:
 
 ---
 
+## Unlock order (recommended)
+
+Goal: maximize automation and usefulness with the fewest changes.
+
+### 1) Configure web discovery (Brave Search API)
+Impact:
+- Local Scene Analyzer can discover venues/promoters/event listings.
+- Trend Watcher can discover sources beyond YouTube.
+- Any “spider outward” agent becomes much more autonomous.
+
+### 2) Install a supported browser OR use Browser Relay (Chrome extension)
+Impact:
+- Enables JS-heavy sites and login-required browsing (especially Instagram).
+- Makes “IG trend research” and “local events via IG” feasible.
+
+### 3) Establish a consistent secrets workflow
+Impact:
+- Safe key management for Groq/OpenAI/etc.
+- Enables more integrations without leaking keys.
+
+### 4) Finish the 0.4c corpus transcription backlog
+Impact:
+- Unlocks Framework Synthesizer outputs (Meta ads, short-form, release strategy).
+
+### 5) Provide Nukage anchor tracks + constraints
+Impact:
+- Makes all strategy outputs tailored rather than generic.
+
+### 6) Local Scene Analyzer: seed URLs/handles → first spider run
+Impact:
+- Quickly populates the venue/promoter/DJ map and surfaces near-term opportunities.
+
+### 7) Decide “crate output” target
+Impact:
+- Enables Playlist/Crate Builder + Downloader to be practical (Spotify vs Rekordbox vs files).
+
+### 8) Merch Ops read-only access
+Impact:
+- Enables store intelligence and merch ideation grounded in real sales data.
+
+---
+
 ## Global blockers (affect many agents)
 
 ### Web discovery
