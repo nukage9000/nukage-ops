@@ -46,3 +46,17 @@ The Knowledgebase (scraped corpus + derived insights/playbooks) lives separately
 - **Goal:** Map your local scene (venues, events, DJs, artists) and surface high-bar opportunities.
 - **Status:** Planned
 - **Needs:** city/region, travel radius, genre/vibe constraints, opportunity definition.
+
+### 8) Merch Ops Agent (WooCommerce + FluentCRM)
+- **Goal:** Generate merch ideas, analyze what to launch next, and (eventually) help deploy merch drops.
+- **Status:** Planned
+- **Email platform:** FluentCRM Pro
+- **Print-on-demand provider:** TBD
+- **Initial access level:** **READ-ONLY** (store + CRM)
+- **Phased rollout:**
+  1. **Merch Ideation (safe):** drop briefs, product concepts, pricing suggestions, copy drafts.
+  2. **Store Drafting (medium risk):** create *draft* products only (no publish) once we upgrade access.
+  3. **Launch + Email (high risk):** publish + send announcement email **approval-gated**.
+- **Outputs:**
+  - Planning briefs in nukage-ops (e.g. `RUNBOOKS/Merch-Drops.md`)
+  - When enabled, store changes happen via WooCommerce API (draft-first)
