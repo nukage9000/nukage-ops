@@ -111,3 +111,10 @@ Why it matters:
 
 2026 direction:
 - Take the Live Looping Engine further (more refined scene library, smoother transitions, tighter performance template, and integration with visuals).
+
+### 2026 upgrade: TouchOSC control layer inside Bitwig
+- Built a **TouchOSC** template that replicates much of Endlesss’ looping workflow *directly in Bitwig*.
+- TouchOSC acts as:
+  - an **automation layer** for loop recording in Bitwig
+  - a **MIDI translation layer** for controllers so gear behaves more intelligently/consistently
+- Strategic benefit: reduces tool friction and keeps the workflow performance-native while staying in the DAW.
