@@ -32,6 +32,10 @@ Definition of “getting somewhere”:
 
 ---
 
+## NEXT (Setup Sprint Unlock)
+
+See: `PLANS/SETUP_SPRINT_UNLOCK.md`
+
 ## NEXT (backend + ammo)
 
 ### Stack-of-3 system → target: 9 songs (fuel for template + funnel + ads)
