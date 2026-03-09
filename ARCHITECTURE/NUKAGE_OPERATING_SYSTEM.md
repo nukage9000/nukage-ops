@@ -90,3 +90,24 @@ Optional “Growth Compos” (same time-boxed spirit):
 - show-prep compo
 
 Principle: don’t fight the habit; improve the default targets.
+
+---
+
+## Live Looping Engine (Endlesss → Bitwig scenes → performance songs)
+
+Context:
+- Nukage’s music creation process is performance-native: composition and arrangement are built around live triggering.
+
+2025 system (FAWM):
+- Used **Endlesss** to record many loops live.
+- Performed/recorded the looping sessions on **Twitch** and **YouTube**.
+- Imported loops into **Bitwig** (and other tools as needed).
+- Layered loops into genre-based "scenes" (drumstep, hardwave, and other EDM genres).
+- Live-triggered scenes + live FX to create transitions between scenes.
+
+Why it matters:
+- This is a speed + authenticity advantage: songs are born from real performance, not only offline production.
+- It produces content naturally (streamed sessions) and creates a reusable loop library.
+
+2026 direction:
+- Take the Live Looping Engine further (more refined scene library, smoother transitions, tighter performance template, and integration with visuals).
