@@ -129,3 +129,10 @@ Why it matters:
     - choose/switch camera sources
     - feed control/sync into TouchDesigner for visuals
 - TouchDesigner can act as the visual "helm" integrating with the full performance stack.
+
+#### Reusable Transition Library
+- Because every gesture/automation/MIDI move is captured and editable, transitions can be:
+  - perfected after the performance
+  - saved as reusable "transition modules"
+  - iterated (v1 → v2 → v3)
+- This becomes a creative moat: a growing library of signature transitions that can be reused across sets and tracks.
