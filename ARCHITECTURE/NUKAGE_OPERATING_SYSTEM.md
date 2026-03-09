@@ -136,3 +136,8 @@ Why it matters:
   - saved as reusable "transition modules"
   - iterated (v1 → v2 → v3)
 - This becomes a creative moat: a growing library of signature transitions that can be reused across sets and tracks.
+
+### Projector layer (current live visuals production system)
+- Live videos commonly feature a **projector** projecting visuals onto Tom + the wall behind.
+- Visuals currently powered by **NestDrop**.
+- This is production-ready now; TouchDesigner can later augment/replace NestDrop while keeping the projector as the physical stage element.
