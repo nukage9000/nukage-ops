@@ -30,3 +30,5 @@ Columns:
 ## Log
 
 (append-only)
+
+- 2026-03-09 12:52 EDT — Attempted Acast 0.4c batch transcription (--limit=3). Blocked: Groq transcription curl hung/stalled on guid=695c64313edf36b7902dd7be; run terminated; progress/failures updated; no new transcripts committed.
