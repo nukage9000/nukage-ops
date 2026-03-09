@@ -4,6 +4,7 @@ This document defines the canonical operating model for building Nukage in 2026+
 
 ## Core principles
 - **Momentum > rigidity**: protect wings; use gentle nudges to start; hands-off during flow.
+- **Sprint energy > endless grind**: Tom works best in time-boxed sprints/challenges (e.g., a 2-week posting sprint). “Post every day until I blow up” creates anxiety; short, well-framed challenges feel doable and can create momentum.
 - **Ship to learn**: minimum viable shipping beats perfect preparation.
 - **Use systems to compound**: every week should leave behind reusable assets.
 - **Pride over spaghetti**: social posting should feel like real art, not filler.
