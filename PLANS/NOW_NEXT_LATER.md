@@ -32,22 +32,36 @@ Definition of “getting somewhere”:
 
 ---
 
-## NEXT (the growth engine that attaches to the sprint)
+## NEXT (highest priority backend foundation)
+
+### Funnel backend foundation (build-first)
+**Priority:** build the backend so ads/organic can start with everything already working.
+
+Deliverables:
+- Offer + copy written (CTA, landing page, thank-you page)
+- FluentCRM working end-to-end:
+  - opt-in works
+  - tag/campaign tracking works
+  - instant email delivery works
+  - nurture sequence is live
+- Private listening link (SoundCloud) + bonus original download set
+
+Guardrail: avoid bootleg ads; bootlegs are organic/listen-only.
 
 ### Flip-as-Lead-Magnet Loop (fans-first)
-Concept: 1–2 week mini-cycles.
-- Core asset: an enticing flip/bootleg OR VIP of your own released track.
-- Content: 3–5 wrappers (visuals, DAW, finger drumming, template run, IRL text).
+Once backend is live, run 1–2 week mini-cycles.
+- Core asset: enticing flip/bootleg OR VIP of your own released track.
+- Content wrappers: visuals / DAW / finger drumming / performance template / IRL text.
 - CTA: “Listen to the full track” → FluentCRM opt-in.
 
-**Delivery policy:**
-- Bootlegs/trend flips: **listen-only** private SoundCloud link.
+Delivery policy:
+- Bootlegs/trend flips: listen-only private SoundCloud link.
 - Originals/VIPs: downloads OK.
 
 ### FluentCRM Funnel (one funnel per track)
 - Landing page → opt-in (email + name) → thank-you page with SoundCloud link + bonus original.
 - Instant email delivery + nurture sequence (day 0, +1d, +3d, +7d).
-- Goal: minimize overhead; reuse one form with hidden campaign id if feasible.
+- Goal: reuse one form with hidden campaign id if feasible.
 
 Prime candidate campaign:
 - “Legends Never Die” new drop/VIP performance version (proven gaming crossover).
