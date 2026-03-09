@@ -141,3 +141,13 @@ Why it matters:
 - Live videos commonly feature a **projector** projecting visuals onto Tom + the wall behind.
 - Visuals currently powered by **NestDrop**.
 - This is production-ready now; TouchDesigner can later augment/replace NestDrop while keeping the projector as the physical stage element.
+
+## Time-of-day leverage (Evening performance window)
+- After ~9pm:
+  - Tom is **strong** at performance tasks (live looping performances, DJing, live streams).
+  - Tom is often **weak** at analytical/admin tasks.
+- OHC compo window (9–10pm) has a similar "no overthinking" performance state.
+
+Operating rule:
+- Schedule **performance output** (streams, loop captures, performance clips) after 9pm.
+- Schedule admin/analysis/planning earlier in the day.
