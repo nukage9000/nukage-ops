@@ -61,6 +61,17 @@ Impact:
 - 🔴 **No supported browser installed on OpenClaw host** (OpenClaw `browser start` fails).
   - Impact: JS-heavy sites (Instagram, some ticketing sites) are hard to spider.
   - Fix: install Chromium/Chrome/Brave on host, or rely on manual capture.
+- 🔴 **Browser control service unreachable at runtime** (agent saw: “Can’t reach the OpenClaw browser control service”).
+  - Impact: even public sources can’t be navigated interactively to pull transcripts, logins, etc.
+  - Fix: get `browser start` working on the host OR use Browser Relay (logged-in Chrome tab).
+
+### Membership-gated sources (YouTube “Join”, paid communities)
+- 🔴 **Members-only video access blocks extraction of tactics + timestamped quotes** (e.g., Musformation/Jesse Cannon channel members-only episodes).
+  - Symptom: yt-dlp errors like “Join this channel…”; no `.vtt` captions available.
+  - Impact: we can draft frameworks/playbooks, but can’t *verify* or properly cite without transcript/captions.
+  - Fix options:
+    - Provide authenticated cookies for an environment with membership access (preferred), then ingest `.vtt` captions.
+    - Or: you manually export transcript / copy key sections → we cite what you provide.
 
 ### Instagram/TikTok scraping
 - 🟡 **Platform hostile to scraping**.
