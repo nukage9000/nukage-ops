@@ -118,3 +118,14 @@ Why it matters:
   - an **automation layer** for loop recording in Bitwig
   - a **MIDI translation layer** for controllers so gear behaves more intelligently/consistently
 - Strategic benefit: reduces tool friction and keeps the workflow performance-native while staying in the DAW.
+
+### Performance-to-Perfection + Multi-cam Sync
+- Bitwig capture is clock-synced → enables **perfect sync** between audio/MIDI/automation and video.
+- With OBS, can capture **multiple sources** (camera angles, screen capture, etc.).
+- Workflow advantage:
+  - Perform once (authentic)
+  - Edit after the fact:
+    - fix automation / sound design / MIDI
+    - choose/switch camera sources
+    - feed control/sync into TouchDesigner for visuals
+- TouchDesigner can act as the visual "helm" integrating with the full performance stack.
