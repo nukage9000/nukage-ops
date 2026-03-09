@@ -32,7 +32,22 @@ Definition of “getting somewhere”:
 
 ---
 
-## NEXT (highest priority backend foundation)
+## NEXT (backend + ammo)
+
+### 3-song starter stack (fuel for template + funnel + ads)
+We start with **three roles** so the system has consistent input:
+
+1) **Trending flip (attention engine)**
+- Organic only.
+- Bootleg delivery = **listen-only** SoundCloud private link.
+
+2) **VIP of your own song (owned lead magnet)**
+- Organic + ads OK.
+- Exclusive VIP, but fans can stream the original on Spotify.
+
+3) **Legacy original (Spotify algo engine)**
+- The one we intentionally try to supercharge on Spotify.
+- Use bursts + retargeting.
 
 ### Funnel backend foundation (build-first)
 **Priority:** build the backend so ads/organic can start with everything already working.
@@ -44,27 +59,25 @@ Deliverables:
   - tag/campaign tracking works
   - instant email delivery works
   - nurture sequence is live
-- Private listening link (SoundCloud) + bonus original download set
+- SoundCloud private listening link + bonus original download set
 
-Guardrail: avoid bootleg ads; bootlegs are organic/listen-only.
+Ads guardrail:
+- Don’t run paid ads *for bootlegs* as the hero creative.
+- Use ads for owned/VIP/original offers and retargeting.
 
 ### Flip-as-Lead-Magnet Loop (fans-first)
 Once backend is live, run 1–2 week mini-cycles.
-- Core asset: enticing flip/bootleg OR VIP of your own released track.
-- Content wrappers: visuals / DAW / finger drumming / performance template / IRL text.
+- One core asset → 3–5 content wrappers (visuals / DAW / finger drumming / template run / IRL text).
 - CTA: “Listen to the full track” → FluentCRM opt-in.
 
 Delivery policy:
-- Bootlegs/trend flips: listen-only private SoundCloud link.
-- Originals/VIPs: downloads OK.
+- Bootlegs/trend flips: listen-only SoundCloud private link.
+- Owned VIPs/originals: downloads OK.
 
 ### FluentCRM Funnel (one funnel per track)
 - Landing page → opt-in (email + name) → thank-you page with SoundCloud link + bonus original.
 - Instant email delivery + nurture sequence (day 0, +1d, +3d, +7d).
-- Goal: reuse one form with hidden campaign id if feasible.
-
-Prime candidate campaign:
-- “Legends Never Die” new drop/VIP performance version (proven gaming crossover).
+- Goal: reuse one form with campaign-id injection if feasible.
 
 ---
 
@@ -93,6 +106,6 @@ Lane: hard trap (Juelz/Hex Cougar heavy) + Skrillex-ish drums.
 ---
 
 ## Next actions (when Tom is ready)
-1) Finish XY transition conversion milestone #1 (convert 2 transitions) and capture 1 clip.
-2) Pick the first lead magnet campaign asset (likely Legends Never Die VIP drop).
-3) Create first FluentCRM landing + thank-you + email0 (deliver link) and schedule 3 posts.
+1) Pick the **3 songs** (flip + VIP + legacy Spotify) so the template has ammo.
+2) Build Funnel v1 end-to-end in FluentCRM for **one** of those songs (landing → opt-in → thanks → Email 0 + nurture).
+3) Capture 1 performance-template clip that showcases a real “drop moment.”
