@@ -54,8 +54,10 @@ Impact:
 ## Global blockers (affect many agents)
 
 ### Web discovery
-- 🔴 **Brave Search API key not configured** (OpenClaw `web_search` tool errors).
-  - Fix: create Brave Search API key + `openclaw configure --section web`.
+- 🔴 **Search discovery not configured** (OpenClaw `web_search` tool requires Brave API key).
+  - Preferred fix (no paid API): stand up / use a **SearXNG** instance and route discovery through it.
+  - What I need from Tom: SearXNG base URL (and whether it’s private/LAN-only and whether it needs an API key or auth).
+  - Note: until OpenClaw has a native `web_search` provider for SearXNG, we can still use it via a small helper script + `web_fetch` (HTML) or SearXNG’s JSON endpoint.
 
 ### Browser automation
 - 🔴 **No supported browser installed on OpenClaw host** (OpenClaw `browser start` fails).

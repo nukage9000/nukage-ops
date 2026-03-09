@@ -12,16 +12,19 @@ Right now the main blockers to fully autonomous “spider” behavior are:
 
 ## 1) Enable spider mode (Local Scene Analyzer)
 
-### 1.1 Add Brave Search API key to OpenClaw (recommended)
-**Why:** Lets the agent discover venues/promoters/events without you hand-feeding URLs.
+### 1.1 Use SearXNG for web discovery (recommended)
+**Why:** Lets the agent discover venues/promoters/events without you hand-feeding URLs—without paying for Brave.
 
 **To do:**
-1) Create a Brave Search API key (Brave Search API).
-2) On the OpenClaw VM/host terminal:
-   - `openclaw configure --section web`
-   - set `BRAVE_API_KEY`
+1) Provide the SearXNG base URL (e.g., `https://search.yourdomain.com`).
+2) Confirm access:
+   - Is it reachable from the OpenClaw VM/host?
+   - Is it public, LAN-only, or behind auth?
+3) Implement a tiny helper (script or tool wrapper) that queries SearXNG’s JSON endpoint and returns top results (title/url/snippet).
 
-**Done when:** agent can successfully run `web_search` without “missing_brave_api_key”.
+**Done when:** agent can run a “search” step (via SearXNG) and get back 5–10 URLs reliably.
+
+**Note:** OpenClaw’s built-in `web_search` tool is Brave-only today; SearXNG will be a parallel path unless/until we wire it into OpenClaw config.
 
 ### 1.2 (Optional) Install a supported browser on the OpenClaw host
 **Why:** Helps with JS-heavy sites and interactive navigation.
