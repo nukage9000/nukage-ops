@@ -34,12 +34,13 @@ Definition of “getting somewhere”:
 
 ## NEXT (backend + ammo)
 
-### 3-song starter stack (fuel for template + funnel + ads)
-We start with **three roles** so the system has consistent input:
+### Stack-of-3 system → target: 9 songs (fuel for template + funnel + ads)
+We scale in sets of 3 roles to stay organized.
 
+Each stack contains:
 1) **Trending flip (attention engine)**
 - Organic only.
-- Bootleg delivery = **listen-only** SoundCloud private link.
+- Bootleg delivery = listen-only SoundCloud private link.
 
 2) **VIP of your own song (owned lead magnet)**
 - Organic + ads OK.
@@ -48,6 +49,9 @@ We start with **three roles** so the system has consistent input:
 3) **Legacy original (Spotify algo engine)**
 - The one we intentionally try to supercharge on Spotify.
 - Use bursts + retargeting.
+
+Target: **3 stacks = 9 songs**
+Operating rule: only **one stack active per week** for clip creation; the rest are funnel-prep only.
 
 ### Funnel backend foundation (build-first)
 **Priority:** build the backend so ads/organic can start with everything already working.
@@ -106,6 +110,6 @@ Lane: hard trap (Juelz/Hex Cougar heavy) + Skrillex-ish drums.
 ---
 
 ## Next actions (when Tom is ready)
-1) Pick the **3 songs** (flip + VIP + legacy Spotify) so the template has ammo.
-2) Build Funnel v1 end-to-end in FluentCRM for **one** of those songs (landing → opt-in → thanks → Email 0 + nurture).
+1) Pick the **9 songs** (3 stacks): 3 flips + 3 VIPs + 3 Spotify originals.
+2) Build Funnel v1 end-to-end in FluentCRM for **one** song (template), then clone it for the other 8.
 3) Capture 1 performance-template clip that showcases a real “drop moment.”

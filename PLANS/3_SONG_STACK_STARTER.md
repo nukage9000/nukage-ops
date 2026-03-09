@@ -1,8 +1,10 @@
-# 3-Song Starter Stack (Funnel + Ads + Algo)
+# Stack-of-3 System (3 / 6 / 9 songs) — Funnel + Ads + Algo
 
-Goal: start with 3 distinct assets so the performance template + funnel + ads system has fuel.
+Goal: keep the performance template + funnel + ads system fed **without chaos** by scaling in sets of 3.
 
-## The 3 songs
+## The Stack-of-3 roles
+
+Each **stack** contains 3 songs with distinct roles:
 
 ### 1) Trending flip (attention engine)
 - Purpose: organic reach + list growth.
@@ -10,16 +12,41 @@ Goal: start with 3 distinct assets so the performance template + funnel + ads sy
 - Delivery: **listen-only** private SoundCloud link (avoid ads + downloads for bootlegs).
 - CTA: “Listen to the full track” → FluentCRM opt-in.
 
-### 2) VIP of an existing Nukage song (exclusive but owned)
+### 2) VIP of an existing Nukage song (owned lead magnet)
 - Purpose: safe scalable lead magnet + brand building.
 - Distribution: organic + ads OK.
 - Delivery: SoundCloud private/unlisted, plus optional download (owned).
-- Bridge: people can still stream original on Spotify; VIP can become a later release.
+- Bridge: people can still stream the original on Spotify; VIP can become a later release.
 
 ### 3) Legacy original planned for Spotify (algo engine)
 - Purpose: Spotify growth + long-tail algo; primary candidate for Spotify-focused bursts.
 - Distribution: Spotify release + ads bursts to amplify.
 - Retarget: warm pools → FluentCRM funnel.
+
+## Scaling targets
+- 3 songs = 1 stack
+- 6 songs = 2 stacks
+- **9 songs = 3 stacks** (current target)
+
+## Operating rule (prevents overwhelm)
+Only **ONE stack is active per week** for clip creation.
+Other stacks are:
+- “queued” (backend funnel prep only)
+- “reserve” (no work)
+
+## Implementation checklist per song
+- SoundCloud link prepared (listen-only for flips)
+- FluentCRM campaign tag + automation
+- Landing page + thank-you page
+- Email 0 copy finalized
+
+## Content supply
+Per song, generate 3–5 wrappers over time:
+- visuals-centered
+- DAW / build breakdown
+- finger drumming / performance
+- performance template run
+- IRL text overlay
 
 ## Budget posture (early)
 - Always-on: $3–$5/day to **lead capture** funnel (use VIP/owned creative).
