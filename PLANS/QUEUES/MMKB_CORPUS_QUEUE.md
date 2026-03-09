@@ -14,8 +14,18 @@ Columns:
 
 - status: TODO
   type: podcast
-  source: (paste URL)
-  notes: 
+  source: https://shows.acast.com/my-point-4-cents-podcast/episodes/music-marketing-2026-insider-predictions
+  notes: "0.4c (Acast) guid=695c64313edf36b7902dd7be"
+
+- status: TODO
+  type: podcast
+  source: https://shows.acast.com/my-point-4-cents-podcast/episodes/how-black-veil-brides-built-their-fanbase
+  notes: "0.4c (Acast) guid=694883dd3aa794d3c6b9a353"
+
+- status: TODO
+  type: podcast
+  source: https://shows.acast.com/my-point-4-cents-podcast/episodes/the-secrets-of-boosting-your-spotify-algortihm-w-luke-mansel
+  notes: "0.4c (Acast) guid=694883be9ff9a1898696a6f3"
 
 ## Log
 
