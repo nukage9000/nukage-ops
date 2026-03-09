@@ -5,7 +5,7 @@ This is the “make the bots smoother” checklist.
 ## 0) Quick context
 Right now the main blockers to fully autonomous “spider” behavior are:
 - No web search API key configured (so the agent can’t discover sources on its own)
-- No browser automation available on the OpenClaw host (limits JS-heavy sites)
+- Browser automation isn’t currently usable (no supported browser installed *and/or* browser control service unreachable), which limits JS-heavy sites and transcript extraction.
 - Some sites block automated fetch (Cloudflare/Instagram)
 
 ---
