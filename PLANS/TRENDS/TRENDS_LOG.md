@@ -192,3 +192,127 @@ Append-only. Each entry should include source links + recommended flip angles.
 
 #### Needs Tom input
 - TikTok/IG trend audio lists are accessible (e.g., Buffer/HeyOrca), but linking to the actual Reels/TikTok audio pages is often login-walled. If you want platform-native validation, send 3–5 seed links (TikTok or IG Reels) and I’ll build flips around those exact audios.
+
+### 2026-03-09 — Trend Bot v1
+
+**Lane:** hard trap (Juelz / Hex Cougar heavy) + Skrillex-ish drums
+
+#### Top candidates (5–10)
+1) **RL GRIME x ISOKNOCK — SMACK TALK (flozone flip)**
+   - Link(s): https://m.soundcloud.com/officialflozone/rl-grime-x-isoknock-smack-talk-flozone-flip
+   - Why it’s hot: 66.9K plays; *very* high engagement (≈1.3K likes + 1.2K reposts) + fresh comment activity (hours/days) → currently circulating in DJ/producer circles.
+   - Nukage fit: Immediate hard-trap switchups, big callout vocal moments; ripe for Skrillex-ish drum surgery + metallic fills.
+   - Flip angle: Keep the recognizable “Smack Talk” hook, then go full “hard trap → halftempo fakeout → 2nd drop pogo” with crunchy stutter edits.
+   - Content variants (3–5):
+     1. 10s “hook → instant drop” (no intro)
+     2. 15s “build fakeout” (silence + tape stop) then drop
+     3. 20s “drum-cam” version (close-up grid / finger drumming)
+     4. 12s “VIP switch” (drop A then micro-switch to drop B)
+     5. 8s “crowd test” clip (phone video aesthetic)
+   - Delivery: **listen-only** (bootleg/flip; unless explicit DL permission from artist)
+   - Deadline: cut a draft **within 48h** while engagement is peaking
+
+2) **ISOKNOCK & RL Grime — Smack Talk (Blanke Flip)**
+   - Link(s): https://m.soundcloud.com/blankemusicau/smack-talk-flip
+   - Why it’s hot: 120.2K plays; active comment stream; explicit free download link present on page.
+   - Nukage fit: Big festival energy; works as a “baseline reference” for what fans already accept, then Nukage can out-technical the drums.
+   - Flip angle: Go heavier on Skrillex-style percussion + fills; replace mid-bass with cleaner 808 glide + laser resample.
+   - Content variants (3–5):
+     1. 12s “before/after” (original hook → Nukage drums)
+     2. 15s “drop with captions” (callout the switch)
+     3. 20s “sound design” (one synth → final growl)
+     4. 10s “triple-kick” micro-loop
+   - Delivery: **download OK** *if* using provided free DL + crediting (verify licensing);
+     otherwise listen-only.
+   - Deadline: **3–5 days**
+
+3) **ISOKNOCK & RL GRIME — SMACK TALK (TOXATE EDIT)**
+   - Link(s): https://m.soundcloud.com/toxatenoise/smacktalkrmx
+   - Why it’s hot: 93.3K plays; strong repost/like ratio; free download link present.
+   - Nukage fit: Darker dubstep-leaning edit = good lane-adjacent reference; Nukage can re-center it into hard trap with sharper transient design.
+   - Flip angle: Pull the heaviest 1-bar from the edit, re-frame with trap swing + Skrillex-ish snare fill language.
+   - Content variants (3–5):
+     1. 8s “best 1-bar” loop
+     2. 15s “double drop” (trap → dubstep)
+     3. 20s “DJ POV” clip
+     4. 12s “stutter vocal chop” teaser
+   - Delivery: **download OK** only if using creator’s free DL + credit; otherwise listen-only.
+   - Deadline: **this week**
+
+4) **ISOKNOCK & RL Grime — Smack Talk (Benda Flip)**
+   - Link(s): https://m.soundcloud.com/bendamusic/smack-talk-benda-flip
+   - Why it’s hot: 69.5K plays; free download mentioned; consistent comments.
+   - Nukage fit: Aggro bass + trap hybrid; easy to pivot into “Hex Cougar weight” with cleaner low-end + gunshot hats.
+   - Flip angle: Strip to vocal + 808, rebuild drums as ultra-modern Skrillex-y (granular hats, rim shots, 32nd-note fills).
+   - Content variants (3–5):
+     1. 15s “808-only build” then full drop
+     2. 10s “snare fill showcase”
+     3. 20s “drop A/B compare”
+     4. 12s “crowd chant” edit
+   - Delivery: **download OK** if free DL is confirmed + credited; otherwise listen-only.
+   - Deadline: **7 days**
+
+5) **Aarena (Knock2 Remix) — Juelz Flip**
+   - Link(s): https://m.soundcloud.com/bbjuelz/aarena-knock2-remix-juelz-flip
+   - Why it’s hot: 133.7K plays; lots of “DL?” comments; sits in the Knock2/Juelz ecosystem fans already love.
+   - Nukage fit: Hard trap DNA; flip angle is about *drums* and *arrangement* more than “finding the sound.”
+   - Flip angle: Make a “Nukage VIP” with Skrillex-ish drum breaks, micro-edits, and a second drop that goes half-time stomp.
+   - Content variants (3–5):
+     1. 10s “VIP drop” teaser
+     2. 15s “build → fake drop → real drop”
+     3. 20s “DAW screen + markers”
+     4. 12s “kick/snare solo then full mix”
+   - Delivery: **listen-only** (derivative flip unless explicit permission)
+   - Deadline: **1–2 weeks** (less urgent than Smack Talk wave)
+
+6) **Death (Juelz & Knock2 Remix)**
+   - Link(s): https://m.soundcloud.com/bbjuelz/death
+   - Why it’s hot: 268.7K plays; still active comments recently; evergreen “hard trap classic” that keeps resurfacing.
+   - Nukage fit: Guaranteed crowd response; use as an “anchor” in sets to show taste + execution.
+   - Flip angle: 2026 drum palette refresh—Skrillex-ish breakbeat sections + heavier transient design; keep vocal recognizability.
+   - Content variants (3–5):
+     1. 8s “drop punch-in”
+     2. 15s “old → new” (A/B)
+     3. 20s “mixdown flex” (sub-only / drums-only)
+   - Delivery: **listen-only** (remix)
+   - Deadline: **2 weeks**
+
+7) **Skrillex — Bangarang (TRXGGX Flip)**
+   - Link(s): https://m.soundcloud.com/trxggx/bangarang
+   - Why it’s hot: 48.4K plays; recognizable legacy anthem = reliable short-form bait; comments active.
+   - Nukage fit: “Skrillex-ish drums” lane is literally the reference—perfect for a modern hard-trap reinterpretation.
+   - Flip angle: Keep the “Bangarang” top-line, recontextualize with hard-trap drums + modern bass stabs; use a huge fill into drop.
+   - Content variants (3–5):
+     1. 10s “nostalgia → modern drop”
+     2. 15s “fill compilation”
+     3. 12s “crowd reaction” edit
+     4. 20s “sound design breakdown”
+   - Delivery: **listen-only** (bootleg)
+   - Deadline: **10 days**
+
+8) **ISOKNOCK — energy (jpky flip)**
+   - Link(s): https://m.soundcloud.com/jpky/isoknock-energy-jpky-flip
+   - Why it’s hot: 33.9K plays; clean short runtime (2:12) + strong saves/reposts; sits inside the ISOKNOCK meme ecosystem.
+   - Nukage fit: High-bpm trap flip template; easy to build a clip-first VIP.
+   - Flip angle: Turn it into a “Skrillex drum workout” — off-grid fills, gated hats, and a second drop with trap triplets.
+   - Content variants (3–5):
+     1. 8s “best hit” loop
+     2. 15s “drop A → drop B switch”
+     3. 20s “drum rack showcase”
+   - Delivery: **listen-only** (flip)
+   - Deadline: **2 weeks**
+
+9) **RL GRIME & JUELZ — Formula (GAWM FLIP)**
+   - Link(s): https://m.soundcloud.com/gawmmusic/rl-grime-juelz-formula-gawm-flip
+   - Why it’s hot: 214.5K plays; classic that keeps getting pulled into new sets; still getting fresh comments.
+   - Nukage fit: DNA match—hard trap fundamentals; good “reference flip” to benchmark against.
+   - Flip angle: Rebuild with modern Skrillex-esque drum programming + tighter low-end; add a surprise halftime bridge.
+   - Content variants (3–5):
+     1. 10s “VIP drop”
+     2. 15s “fill → drop”
+     3. 20s “arrangement map”
+   - Delivery: **listen-only** (bootleg/flip)
+   - Deadline: **2–3 weeks**
+
+#### Needs Tom input
+- If we want to go beyond SoundCloud and into *real* "viral sound" territory (TikTok/IG audio pages), send **3–5 seed links** (TikTok or IG Reels audio URLs). Those platforms often block scraping from this environment.
