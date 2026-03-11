@@ -1,5 +1,7 @@
 # Evergreen Email Sequence — MMM-style (Narrative) — v1
 
+See also: [`FUNNEL_FRAMEWORKS_SYNTHESIS.md`](./FUNNEL_FRAMEWORKS_SYNTHESIS.md) (recommended 4-touch nurture spine + funnel diagnostics).
+
 Purpose: reusable follow-up sequence for Nukage campaigns (VIP/original/cover/flip). Friendly tone, narrative framing, single primary CTA.
 
 Primary CTA: **Buy the album**

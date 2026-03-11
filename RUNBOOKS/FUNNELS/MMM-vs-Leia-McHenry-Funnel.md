@@ -1,5 +1,7 @@
 # Funnel Patterns — Music Marketing Manifesto vs Leia McHenry (Fans-first)
 
+See also: [`FUNNEL_FRAMEWORKS_SYNTHESIS.md`](./FUNNEL_FRAMEWORKS_SYNTHESIS.md) (MVF pattern + lead magnet selection).
+
 Purpose: reduce funnel setup friction by choosing a proven pattern and modernizing it for Nukage (short-form + performance template).
 
 ## Shared goal
