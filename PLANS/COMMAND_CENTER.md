@@ -14,6 +14,13 @@ Build a compounding Nukage system that:
 
 ## NOW (highest priority)
 
+### 0) Review evergreen email sequence (draft) — unblock Funnel v1 writing
+**Outcome:** evergreen follow-up sequence reviewed/approved so it can be reused across campaigns.
+
+**Next action:** Review `RUNBOOKS/FUNNELS/EVERGREEN_EMAIL_SEQUENCE_MMM_NARRATIVE_V1.md` and mark edits.
+
+---
+
 ### 1) Funnel backend v1 (FluentCRM) — make the machine real
 **Outcome:** one end-to-end funnel works (opt-in → delivery → nurture → tracking).
 
