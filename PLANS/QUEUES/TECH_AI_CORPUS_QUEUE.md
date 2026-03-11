@@ -8,3 +8,4 @@ Queue for ingesting tech/AI sources into `vaults/tech-ai-knowledgebase/`.
 
 (append-only)
 - [x] https://youtu.be/MkN-ss2Nl10?si=E_d0NhcPRwdsaJMD (ingested to tech-ai-knowledgebase)
+- [x] https://youtu.be/Xui-bSDgORU?si=VFp73rwwGYFEEbxa (ingested to tech-ai-knowledgebase)
