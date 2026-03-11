@@ -1,6 +1,8 @@
 # State College Creator Collective (SCCC)
 
 ## Snapshot
+Aliases: "da creatur kullectiv"
+
 - Location: State College
 - Format (v1): brewery hang + everyone listens to each other’s music using headphones + splitter
 - First meetup: 6 people (including Tom)
