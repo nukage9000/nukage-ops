@@ -8,10 +8,10 @@ Add one source note at a time (URL/ID + where its transcript/captions live).
 
 ## Queue
 
-- status: TODO
-  source_note: 
-  source_url: 
-  entity: 
+- status: DONE
+  source_note: vaults/music-marketing-knowledgebase/11_SOURCES/Half/YouTube/Episodes/CExglfosZUM - if-you-want-a-real-music-career-in-2026-10-step-plan.md
+  source_url: https://youtu.be/CExglfosZUM?si=pKRzAW91m56N80DN
+  entity: Half
   blockers: 
 
 ## Log
@@ -23,3 +23,11 @@ Add one source note at a time (URL/ID + where its transcript/captions live).
   source_url: https://youtu.be/CExglfosZUM?si=pKRzAW91m56N80DN
   entity: 
   blockers: Needs captions/transcript ingested into vault
+
+- status: DONE
+  source_note: vaults/music-marketing-knowledgebase/11_SOURCES/Half/YouTube/Episodes/CExglfosZUM - if-you-want-a-real-music-career-in-2026-10-step-plan.md
+  source_url: https://youtu.be/CExglfosZUM?si=pKRzAW91m56N80DN
+  entity: Half
+  blockers: 
+  notes: "Created playbook note → vaults/music-marketing-knowledgebase/PLAYBOOKS/Half - Actionable Plan Funnel (Landing Page + Follow-up Sequence).md"
+  timestamp: 2026-03-11 12:49 EDT
