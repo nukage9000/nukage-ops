@@ -1,0 +1,18 @@
+# Deals wishlist (v1)
+# Used by: ~/.openclaw/workspace/bin/deals-bot.mjs
+# Notes:
+# - max_all_in is USD. eBay all-in is estimated as price+shipping (tax unknown).
+# - Keepa/Amazon all-in: price from email is pre-tax; treat threshold as best-effort.
+
+items:
+  - id: ableton-move
+    name: "Ableton Move"
+    keywords: ["ableton", "move"]
+    max_all_in: 450
+    sources: ["ebay", "keepa"]
+
+  - id: te-op1
+    name: "Teenage Engineering OP-1"
+    keywords: ["op-1", "op1", "teenage engineering"]
+    max_all_in: 800
+    sources: ["ebay", "keepa"]
