@@ -32,3 +32,5 @@ Columns:
 (append-only)
 
 - 2026-03-09 12:52 EDT — Attempted Acast 0.4c batch transcription (--limit=3). Blocked: Groq transcription curl hung/stalled on guid=695c64313edf36b7902dd7be; run terminated; progress/failures updated; no new transcripts committed.
+- 2026-03-10 06:00 EDT — Attempted Acast 0.4c batch transcription (--limit=3). Blocked: Acast media download rate-limited (HTTP 429) on all 3 items (guids 69252f85365dc3dd9c4e636f, 691be925b9580981599826a3, 6912e429c1ed8717c5d3984d). Progress notes updated; no transcripts generated.
+- 2026-03-11 06:00 EDT — Attempted Acast 0.4c batch transcription (--limit=3). Blocked: Acast media download rate-limited (HTTP 429) on all 3 items (guids 68e561c3f513ad2b819c0690, 68db20ba7be17a7f01b77764, 68d21ba1325b3a0ac82df4e9). Progress notes updated; no transcripts generated.
