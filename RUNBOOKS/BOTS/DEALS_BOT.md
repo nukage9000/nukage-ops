@@ -10,6 +10,11 @@ Monitor selected sources for “needs immediate attention” deals and ping Tom 
 - All-in max: **$450** (price + shipping + tax if present; tax is often unknown until checkout)
 - Cadence: **every 6 hours**, 24/7
 
+## Next tracked item (queued)
+- Item: **Teenage Engineering OP‑1 (original)**
+- All-in max: **$800**
+- Sources: eBay + Keepa (same pipeline)
+
 ## v1 Sources
 - eBay (RSS/search)
 - Keepa (Amazon tracking) → AgentMail bridge → Telegram
