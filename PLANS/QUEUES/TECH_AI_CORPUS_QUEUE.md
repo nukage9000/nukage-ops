@@ -1,3 +1,5 @@
+#project/nukage #type/queue
+
 # Tech/AI Corpus Queue
 
 Queue for ingesting tech/AI sources into `vaults/tech-ai-knowledgebase/`.

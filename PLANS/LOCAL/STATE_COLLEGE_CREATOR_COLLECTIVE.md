@@ -1,3 +1,5 @@
+#project/nukage #type/plan #topic/sccc
+
 # State College Creator Collective (SCCC)
 
 ## Snapshot

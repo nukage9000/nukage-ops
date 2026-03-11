@@ -1,3 +1,5 @@
+#project/nukage #type/plan
+
 # Setup Sprint (Unlock) — Starting Point
 
 Purpose: clear the high-leverage setup blockers so the rest of 2026 is mostly **production + growth**, not infrastructure.

@@ -1,3 +1,5 @@
+#project/nukage #type/runbook #topic/funnel
+
 # Funnel Patterns — Music Marketing Manifesto vs Leia McHenry (Fans-first)
 
 See also: [`FUNNEL_FRAMEWORKS_SYNTHESIS.md`](./FUNNEL_FRAMEWORKS_SYNTHESIS.md) (MVF pattern + lead magnet selection).

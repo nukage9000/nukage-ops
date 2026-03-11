@@ -1,3 +1,5 @@
+#project/nukage #type/queue
+
 # MMKB Synthesis Queue
 
 Pull-based backlog for the **Framework Synthesizer**.

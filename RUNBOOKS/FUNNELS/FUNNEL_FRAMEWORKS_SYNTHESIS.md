@@ -1,3 +1,5 @@
+#project/nukage #type/runbook #topic/funnel
+
 # Funnel Frameworks Synthesis (Nukage / FluentCRM)
 
 Purpose: distill the **most reusable funnel patterns** in the Music Marketing KB into **actionable checklists** that map cleanly to Nukage’s current stack: **short-form → landing pages (WP) → FluentCRM → follow-up**.

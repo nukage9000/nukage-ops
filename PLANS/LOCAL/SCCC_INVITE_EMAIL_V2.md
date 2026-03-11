@@ -1,3 +1,5 @@
+#project/nukage #type/asset #topic/sccc
+
 # State College Creator Collective — Invite Email (V2, shorter)
 
 Goal: same intent as the long-form invite, optimized for replies/RSVPs.

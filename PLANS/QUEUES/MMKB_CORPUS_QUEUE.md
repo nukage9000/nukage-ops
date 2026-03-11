@@ -1,3 +1,5 @@
+#project/nukage #type/queue
+
 # MMKB Corpus Queue
 
 Pull-based backlog for the **Corpus Builder**. Add items at the bottom.

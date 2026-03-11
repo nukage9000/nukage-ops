@@ -1,3 +1,5 @@
+#project/nukage #type/runbook #topic/funnel
+
 # Evergreen Email Sequence — MMM-style (Narrative) — v1
 
 See also: [`FUNNEL_FRAMEWORKS_SYNTHESIS.md`](./FUNNEL_FRAMEWORKS_SYNTHESIS.md) (recommended 4-touch nurture spine + funnel diagnostics).

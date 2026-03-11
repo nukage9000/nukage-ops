@@ -1,3 +1,5 @@
+#project/nukage #type/runbook #topic/funnel
+
 # FluentCRM Lead Magnet Funnel (Fans-first)
 
 See also: [`FUNNEL_FRAMEWORKS_SYNTHESIS.md`](./FUNNEL_FRAMEWORKS_SYNTHESIS.md) (frameworks + landing page/email checklists).

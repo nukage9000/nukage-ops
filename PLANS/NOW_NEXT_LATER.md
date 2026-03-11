@@ -1,3 +1,5 @@
+#project/nukage #type/plan
+
 # Now / Next / Later (Nukage) — Working Board
 
 Purpose: keep the big vision coherent while preserving Tom’s need for flow.

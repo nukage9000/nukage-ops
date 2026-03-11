@@ -1,3 +1,5 @@
+#project/nukage #type/plan
+
 # Nukage — Command Center
 
 This file is the top-level “what’s true right now?” priority layer.
