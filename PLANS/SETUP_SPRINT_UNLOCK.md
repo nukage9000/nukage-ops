@@ -29,6 +29,8 @@ By end of this sprint, you can:
 ---
 
 ## Track B — Headshot LoRA (identity assets)
+Aliases: **flux lora project**, flux headshots lora
+
 **Goal:** train LoRA(s) so you can generate realistic headshots and consistent brand visuals.
 
 ### Deliverables
