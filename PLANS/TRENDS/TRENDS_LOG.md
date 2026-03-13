@@ -316,3 +316,149 @@ Append-only. Each entry should include source links + recommended flip angles.
 
 #### Needs Tom input
 - If we want to go beyond SoundCloud and into *real* "viral sound" territory (TikTok/IG audio pages), send **3–5 seed links** (TikTok or IG Reels audio URLs). Those platforms often block scraping from this environment.
+
+### 2026-03-13 — Trend Bot v1
+
+**Lane:** hard trap (Juelz / Hex Cougar heavy) + Skrillex-ish drums
+
+#### Top candidates (5–10)
+1) **RHR & Skrillex – “SYRINX”**
+   - Link(s):
+     - Spotify: https://open.spotify.com/track/0pg7eUl5LaCOXN3F5jdF18
+     - SoundCloud (PAN upload): https://soundcloud.com/pan_hq/rhr-skrillex-syrinx-feat-me-jesmay-lucas-swatch-5
+     - Press/context: https://edm.com/music-releases/rhr-skrillex-syrinx/ | https://djmag.com/news/rhr-shares-new-ep-pan-featuring-skrillex-giria-listen
+   - Why it’s hot: brand-new Skrillex feature on an EP rollout (PAN / RHR) + immediate cross-scene pickup (press + playlisting). Also sitting at/near the top of Beatport’s Trap/Future Bass Top 100 this week.
+   - Nukage fit: already percussive + aggressive, but there’s room to push it more “hard trap arena” (cleaner 808 glide, Juelz-style lasers) and do the *drum surgery* Nukage is known for.
+   - Flip angle: keep the main hook motif → hard stop → huge Skrillex-ish snare cannon + swing hats → 8-bar “laser lead + 808 slide” call/response; second drop goes half-time stomp with fill-heavy transitions.
+   - Content variants (3–5):
+     1) “Skrillex feature but make it HARD trap” hook→drop (10–12s)
+     2) Finger-drumming the fill language (close-up)
+     3) DAW breakdown: 3 drum layers that make the groove feel “Skrillex-ish”
+     4) Drop A vs Drop B switch (rapid A/B)
+     5) “Crowd test” mock phone-video aesthetic (even if shot in studio)
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 24–72h
+
+2) **Fred again.. x BIA – “..FEISTY”**
+   - Link(s):
+     - YouTube: https://www.youtube.com/watch?v=neRduvq83X4
+     - Spotify: https://open.spotify.com/track/0rn8BcTBTPGWb4NRCBST0k
+     - (UGC/unofficial upload reference) https://soundcloud.com/user-118626734/fred-again-x-bia-feisty
+   - Why it’s hot: Fred again.. release gravity + rap feature = fast short-form reuse; early fan reuploads/threads indicate immediate clip appetite.
+   - Nukage fit: perfect “hip-hop vocal over violent drums” canvas; lets Nukage own the drums/low-end while keeping a recognizable vocal slice.
+   - Flip angle: isolate a 1–2 bar BIA phrase as the hook → drop is punchy 2-step/half-time hybrid (Skrillex swing) with brutal 808 slides + stutter edits; add one signature “metallic rim fill” every 2 bars.
+   - Content variants (3–5):
+     1) “BIA vocal → moshpit drop” hook→drop
+     2) Drum rack showcase (kick/snare/hat pattern on screen)
+     3) “How to do Skrillex swing hats in trap” 15s tutorial
+     4) Alt drop (VIP) that goes faster (150→75 halftime) for 4 bars
+     5) Clean vs distorted bass A/B
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 48–72h
+
+3) **RL Grime & WINK – “ALLNIGHTER”**
+   - Link(s):
+     - YouTube: https://www.youtube.com/watch?v=Jytgy18mYYg
+     - SoundCloud: https://m.soundcloud.com/rlgrime/allnighter
+     - Press/context: https://edm.com/music-releases/rl-grime-winkallnighter/
+   - Why it’s hot: brand-new RL Grime single energy (trap community signal) + multi-platform official uploads; also charting strongly on Beatport’s Trap/Future Bass Top 100 this week.
+   - Nukage fit: direct DNA match—this is *already* in-lane; the opportunity is to go “Nukage VIP” on drums/arrangement for clip-first payoff.
+   - Flip angle: keep the core hook/callout → tighten arrangement (no dead air) → add Skrillex-ish breakbeat fill sections + brutal snare rolls; drop 2 switches into a heavier Hex-Cougar-weight midbass.
+   - Content variants (3–5):
+     1) “RL Grime but with Nukage drums” before/after
+     2) 8s “best hit” loop for edits
+     3) DAW: transient shaping on snare cannon
+     4) Performance clip (headbang + text overlay)
+     5) Drop switch montage (A→B)
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 24–72h
+
+4) **Skrillex w/ Nai Barghouti – “XENA”**
+   - Link(s):
+     - YouTube (video): https://www.youtube.com/watch?v=T7SvN0dkQps
+     - Spotify: https://open.spotify.com/track/1gMT8boiNdGWiYy7HQHyZk
+     - SoundCloud: https://soundcloud.com/skrillex/skrillex-nai-barghouti-xena
+   - Why it’s hot: evergreen Skrillex core catalog keeps getting pulled into clips + sets; official video + audio surfaces make it easy for fans to reference.
+   - Nukage fit: “Skrillex-ish drums” is the starting point; Nukage can modernize it into a heavier hard-trap weapon while keeping the instantly recognizable vocal.
+   - Flip angle: vocal phrase → tape stop → hard-trap drop with ultra-clean 808 glide + laser lead; add a 4-bar breakbeat bridge with fill-heavy percussion.
+   - Content variants (3–5):
+     1) “XENA but make it hard trap” drop reveal
+     2) Drum-only clip (Skrillex swing) then full mix
+     3) Sound design: one metallic stab to full lead
+     4) Alt drop with 2-step groove
+     5) “Arrangement map” on screen (markers)
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 7 days (less urgent, but reliable)
+
+5) **PEEKABOO – “Seance”**
+   - Link(s):
+     - SoundCloud: https://soundcloud.com/peekaboobeats/seance
+     - Spotify: https://open.spotify.com/track/3rliJQC1pZ1AFSbrXprQtB
+     - YouTube: https://www.youtube.com/watch?v=_QAVZD_YSg0
+   - Why it’s hot: part of a current PEEKABOO release wave (album/singles chatter) + easy-to-clip “dark groove” sections; also appearing high on Beatport’s Trap/Future Bass Top 100 this week.
+   - Nukage fit: dark/ritual energy translates well to heavy trap with sharper transients; Nukage can make the drums more “festival-ready.”
+   - Flip angle: keep the eerie motif → drop = kick/snare punch with Skrillex-ish fills + trap triplet roll accents; second drop goes “stomp” (half-time) with 808 sub movement.
+   - Content variants (3–5):
+     1) “dark groove → festival trap” switch
+     2) Finger-drumming the fills (close-up)
+     3) DAW: drum bus chain walkthrough (10–15s)
+     4) Build-only tension clip + separate drop clip
+     5) VIP teaser (drop B)
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 3–7 days
+
+6) **Of The Trees – “Dolori”**
+   - Link(s):
+     - YouTube: https://www.youtube.com/watch?v=GDs1fHtgYhQ
+     - Spotify: https://open.spotify.com/track/0Cy71ynWqU8ujRQTeAtX1u
+     - SoundCloud: https://soundcloud.com/ofthetrees/b98a5b5a-5500-424e-a687-bb53dd359518
+     - Press/context: https://relentlessbeats.com/2026/01/of-the-trees-returns-with-breathtaking-new-single-dolori/
+   - Why it’s hot: strong space-bass momentum + recent release coverage; track is built for visuals and “drop reveal” style clips.
+   - Nukage fit: lane-adjacent, but very flippable—Nukage can “harden” it into a trap-forward weapon while keeping the hypnotic mood.
+   - Flip angle: keep the cinematic intro + hook → hard-trap drop with Skrillex-ish snare programming and tighter 808; add one “laser call” every 4 bars to push Juelz energy.
+   - Content variants (3–5):
+     1) “cinematic → violent” before/after
+     2) DAW: turning ambience into a lead (resample)
+     3) Drop-only loop for edits
+     4) Sound design micro-clip: midbass growl
+     5) Alternate groove: 2-step halftime
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 7 days
+
+7) **LYNY – “Section”**
+   - Link(s):
+     - Spotify: https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6
+     - YouTube: https://www.youtube.com/watch?v=ctNHOGrVKN0
+     - SoundCloud: https://soundcloud.com/lynyofficial/d70b353a-cfa8-4859-a15d-be4ef147c526
+   - Why it’s hot: heavy bass community circulation + chart presence (Beatport Trap/Future Bass Top 100); super “loopable” sections for short-form.
+   - Nukage fit: already hits heavy, but Nukage can make it more *trap-forward* and “Skrillex drum language” to stand out.
+   - Flip angle: keep the main hook section but reframe groove as hard trap: swung hats + rim ghosts, bigger snare, more stop/start edits; drop 2 becomes a half-time stomp.
+   - Content variants (3–5):
+     1) “Section but with Nukage drums” A/B
+     2) Drum-only groove (captioned pattern)
+     3) Finger-drumming fill compilation
+     4) Mix tip: keeping sub clean under heavy snares
+     5) VIP teaser (drop B)
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 3–7 days
+
+8) **KSHMR x MEMBA feat. DEV – “Bass Down Low (Trap Version)”**
+   - Link(s):
+     - SoundCloud: https://soundcloud.com/kshmr/bass-down-low-feat-dev-trap
+     - YouTube: https://www.youtube.com/watch?v=tN-_7KV0qFM
+     - Spotify: https://open.spotify.com/track/6ww3QtV3wV0qBfgYCfFu3C
+   - Why it’s hot: nostalgia trigger (“Bass Down Low”) + modern trap repaint; super recognizable hook makes it easy for fans to latch onto in 1–2 seconds.
+   - Nukage fit: perfect “old banger → new hard trap” transformation; room to outdo the drum programming with Skrillex-ish fills.
+   - Flip angle: keep the DEV vocal hook → drop is clipped kick + snare cannon + modern 808 slides; sprinkle quick vocal stutters and 1-bar fakeouts.
+   - Content variants (3–5):
+     1) “2010s hook → 2026 hard trap” drop reveal
+     2) DAW: snare layering (3 layers) in 12s
+     3) Finger-drumming the main fill
+     4) Drop-only loop for edits
+     5) Alt version: 2-step groove
+   - Delivery: download OK (original/VIP style flip of an official trap version is still a bootleg in practice—recommend listen-only unless you’re doing an original VIP release)
+   - Deadline: 7 days
+
+#### Needs Tom input
+- None required for this run (all sources above are accessible without TikTok/IG login).
+- If you want platform-native validation on *actual* viral audios (TikTok/Reels), send 3–5 seed links and I’ll pivot the next run to those exact sounds.
