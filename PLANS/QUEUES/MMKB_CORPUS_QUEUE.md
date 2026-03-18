@@ -14,20 +14,20 @@ Columns:
 
 ## Queue
 
-- status: TODO
+- status: DONE
   type: podcast
   source: https://shows.acast.com/my-point-4-cents-podcast/episodes/music-marketing-2026-insider-predictions
-  notes: "0.4c (Acast) guid=695c64313edf36b7902dd7be"
+  notes: "0.4c (Acast) guid=695c64313edf36b7902dd7be — confirmed transcript exists"
 
-- status: TODO
+- status: DONE
   type: podcast
   source: https://shows.acast.com/my-point-4-cents-podcast/episodes/how-black-veil-brides-built-their-fanbase
-  notes: "0.4c (Acast) guid=694883dd3aa794d3c6b9a353"
+  notes: "0.4c (Acast) guid=694883dd3aa794d3c6b9a353 — confirmed transcript exists"
 
-- status: TODO
+- status: DONE
   type: podcast
   source: https://shows.acast.com/my-point-4-cents-podcast/episodes/the-secrets-of-boosting-your-spotify-algortihm-w-luke-mansel
-  notes: "0.4c (Acast) guid=694883be9ff9a1898696a6f3"
+  notes: "0.4c (Acast) guid=694883be9ff9a1898696a6f3 — confirmed transcript exists"
 
 - status: DONE
   type: youtube
@@ -44,3 +44,5 @@ Columns:
 - 2026-03-11 12:49 EDT — Ingested YouTube captions (CExglfosZUM) into MMKB vault + created source note for future synthesis.
 - 2026-03-12 06:00 EDT — Attempted Acast 0.4c batch transcription (--limit=3). Blocked: Acast rate-limited (HTTP 429) on all 3 items (guids 68b7defe093397eb050cc784, 68b676ae70ab6f8350d2d6e9, 68ad39fbef1a5f8b368c04f4). Progress notes updated; no transcripts generated.
 - 2026-03-13 06:00 EDT — Attempted Acast 0.4c batch transcription (--limit=3). Blocked: Acast rate-limited (HTTP 429) on all 3 items (guids 68954b74c952cf597835e4ac, 68918b5df3bc046081a05019, 688b04d3fc150bcf7fb59930). Progress notes updated; no transcripts generated.
+- 2026-03-15 T17:08Z: MMKB Corpus: Acast batch limit=3 run executed; no new transcripts found. No transcripts dumped; no external posting.
+- 2026-03-18 08:19 EDT — Daily corpus check. All 44/44 Acast transcripts present (100% complete). Marked 3 stale TODO queue items as DONE. No new work; no commit needed.
