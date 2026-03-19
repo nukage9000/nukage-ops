@@ -46,3 +46,4 @@ Columns:
 - 2026-03-13 06:00 EDT — Attempted Acast 0.4c batch transcription (--limit=3). Blocked: Acast rate-limited (HTTP 429) on all 3 items (guids 68954b74c952cf597835e4ac, 68918b5df3bc046081a05019, 688b04d3fc150bcf7fb59930). Progress notes updated; no transcripts generated.
 - 2026-03-15 T17:08Z: MMKB Corpus: Acast batch limit=3 run executed; no new transcripts found. No transcripts dumped; no external posting.
 - 2026-03-18 08:19 EDT — Daily corpus check. All 44/44 Acast transcripts present (100% complete). Marked 3 stale TODO queue items as DONE. No new work; no commit needed.
+- 2026-03-19 08:28 EDT — Daily corpus run: `transcribe_acast_batch --limit=3` returned “Nothing to do” (corpus already complete). Progress timestamp updated in MMKB and committed (0e76754).
