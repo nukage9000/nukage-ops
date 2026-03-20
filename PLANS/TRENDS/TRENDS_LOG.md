@@ -462,3 +462,129 @@ Append-only. Each entry should include source links + recommended flip angles.
 #### Needs Tom input
 - None required for this run (all sources above are accessible without TikTok/IG login).
 - If you want platform-native validation on *actual* viral audios (TikTok/Reels), send 3–5 seed links and I’ll pivot the next run to those exact sounds.
+
+### 2026-03-20 — Trend Bot v1 (fans-first)
+
+**Lane:** hard trap (Juelz / Hex Cougar heavy) + Skrillex-ish drums
+
+#### Top candidates (5–10)
+1) **BTS — “SWIM” (Official MV)**
+   - Link(s):
+     - https://youtu.be/b4iVv91Z6lY
+     - https://kworb.net/youtube/trending/video/b4iVv91Z6lY.html
+   - Why it’s hot: NEW at #1 on YouTube worldwide trending music (94 trend score; #1 India/Brazil/Mexico) as of 2026-03-20.
+   - Nukage fit: massive fanbase + clean vocal hook = high clip-recognition with room for aggressive drum rewrite.
+   - Flip angle: hook-first intro → silence fakeout → Skrillex-ish snare fill into hard-trap drop with laser lead + 808 glides.
+   - Content variants (3–5):
+     1. Hook-to-drop instant switch (8–10s)
+     2. Finger-drumming snare-roll transition
+     3. DAW breakdown (drums only → full drop)
+     4. Alt drop B (triplet fill version)
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 24–48h
+
+2) **Hyunjin — “LOVER”**
+   - Link(s):
+     - https://youtu.be/l8sSQAa1kNM
+     - https://kworb.net/youtube/trending/video/l8sSQAa1kNM.html
+   - Why it’s hot: NEW, top-3 globally today; US included in highlights (#10 US).
+   - Nukage fit: moody pop vocal can take a darker, heavier Hex/Juelz treatment without losing recognizability.
+   - Flip angle: pitched vocal chop pre-drop + halftime kick/snare with metallic fills and brief fake 4x4 fakeout.
+   - Content variants (3–5):
+     1. “Pop to hard trap in 1 bar” meme cut
+     2. Vocal chop design micro-tutorial
+     3. Performance shot (pad/drum rack)
+     4. VIP second-drop teaser
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 48h
+
+3) **Coi Leray ft. NBA YoungBoy — “Better Than Yours”**
+   - Link(s):
+     - https://youtu.be/NqLe3mk__kg
+     - https://kworb.net/youtube/trending/video/NqLe3mk__kg.html
+   - Why it’s hot: NEW with direct US/UK/CA pickup (#7 US) — strong short-form repost potential.
+   - Nukage fit: rap-pocket friendly for swing-heavy Skrillex-ish drums and aggressive call/response bass.
+   - Flip angle: isolate one vocal line → stop-time drum fill → hard trap drop, then switch to bounce groove in drop 2.
+   - Content variants (3–5):
+     1. Acapella + drum-only transition
+     2. “US trending audio flip” caption format
+     3. Drop A vs Drop B split-screen
+     4. Quick mix tip (vocal cut-through over heavy 808)
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 24–48h
+
+4) **Dominic Fike — “Babydoll” (Spotify global #1)**
+   - Link(s):
+     - https://kworb.net/spotify/country/global_daily.html
+   - Why it’s hot: #1 on Spotify Global Daily (2026-03-18), +195,441 day-over-day streams (~5.26M daily).
+   - Nukage fit: familiar topline + softer original production = strong contrast for heavy trap conversion.
+   - Flip angle: use vocal phrase as recurring callout; punchy 2-step halftime drums with clipped 808 and rave-style fills.
+   - Content variants (3–5):
+     1. “Global #1 but make it hard trap”
+     2. Build-only tension clip
+     3. Drop-only bass test clip
+     4. DAW snare-layer stack walkthrough
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 48–72h
+
+5) **sombr — “back to friends” (Spotify mover)**
+   - Link(s):
+     - https://kworb.net/spotify/country/global_daily.html
+   - Why it’s hot: +1 position with +189,247 daily stream delta (~3.94M daily).
+   - Nukage fit: intimate vocal phrasing opens space for “emotional verse / violent drop” contrast.
+   - Flip angle: chop the title line into rhythmic stabs; heavy 808 glide drop with Skrillex-style snare ghosts.
+   - Content variants (3–5):
+     1. Emotional intro → mosh drop switch
+     2. On-screen MIDI + drum pattern reveal
+     3. Performance POV with text overlays
+     4. Alternate 150→75 halftime switch
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 48h
+
+6) **Taylor Swift — “The Fate of Ophelia” (Spotify top 10)**
+   - Link(s):
+     - https://kworb.net/spotify/country/global_daily.html
+   - Why it’s hot: still top-10 global with positive growth (+57,152 day-over-day).
+   - Nukage fit: huge recognition ceiling; melodic material is ideal for dark trap reinterpretation.
+   - Flip angle: preserve one signature phrase; tape-stop into distorted midbass + snare cannon; drop 2 adds triplet fills.
+   - Content variants (3–5):
+     1. Mainstream-to-rage transformation clip
+     2. Drum groove tutorial (ghost note swing)
+     3. Build fakeout version
+     4. VIP snippet with different bass patch
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 72h
+
+7) **Billie Eilish — “WILDFLOWER” (lyrics trend resurgence)**
+   - Link(s):
+     - https://youtu.be/mz0QygjlKqI
+     - https://kworb.net/youtube/trending/video/mz0QygjlKqI.html
+   - Why it’s hot: +24 move on YouTube trending today (clear algorithmic acceleration).
+   - Nukage fit: sparse/haunting vocal mood maps cleanly to heavier Hex Cougar-style atmosphere.
+   - Flip angle: low-pass intro and breath FX → abrupt drop with stomp kick/snare pattern + gritty synth callouts.
+   - Content variants (3–5):
+     1. “+24 trending jump” angle overlay
+     2. Atmosphere build + impact drop
+     3. Drum bus chain quick breakdown
+     4. Live-style headbang camera cut
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 24–48h
+
+8) **Bruno Mars — “Risk It All” (lyrics ecosystem)**
+   - Link(s):
+     - https://kworb.net/spotify/country/global_daily.html
+     - https://youtu.be/8AsEhY-aBdo
+   - Why it’s hot: Spotify global #3 (~4.75M daily) and parallel lyric-video activity on YouTube trending.
+   - Nukage fit: very recognizable topline gives high replay potential when paired with hard trap drums.
+   - Flip angle: vocal sustain → stutter gate → festival-trap drop with punchy transient-focused drums.
+   - Content variants (3–5):
+     1. “If Bruno had a festival trap edit”
+     2. A/B two drop concepts
+     3. Finger-drumming fill breakdown
+     4. Sub-heavy car-test teaser
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 48–72h
+
+#### Needs Tom input
+- TikTok/IG remain login-gated for reliable trend-audio scraping in this run. Send 3–5 seed links (TikTok/Reels audios) and I’ll run a platform-native pass around those exact sounds.
+- SearXNG is reachable locally, but major web engines returned no result payloads in this session; this pass used accessible public chart pages (kworb YouTube/Spotify) via web fetch/curl.
