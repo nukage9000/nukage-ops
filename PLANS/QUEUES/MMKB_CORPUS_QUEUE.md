@@ -47,3 +47,5 @@ Columns:
 - 2026-03-15 T17:08Z: MMKB Corpus: Acast batch limit=3 run executed; no new transcripts found. No transcripts dumped; no external posting.
 - 2026-03-18 08:19 EDT — Daily corpus check. All 44/44 Acast transcripts present (100% complete). Marked 3 stale TODO queue items as DONE. No new work; no commit needed.
 - 2026-03-19 08:28 EDT — Daily corpus run: `transcribe_acast_batch --limit=3` returned “Nothing to do” (corpus already complete). Progress timestamp updated in MMKB and committed (0e76754).
+- 2026-03-20 09:06 EDT — Daily corpus run: `transcribe_acast_batch --limit=3` found no pending episodes (44/44 complete). Updated Acast progress notes; committed MMKB status update (1f74f5c). No blockers.
+- 2026-03-21 12:12 EDT — Daily corpus run: `transcribe_acast_batch --limit=3` returned “Nothing to do” (44/44 complete). Progress timestamp updated and committed in MMKB (622e6da). No blockers.
