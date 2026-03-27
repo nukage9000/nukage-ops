@@ -588,3 +588,126 @@ Append-only. Each entry should include source links + recommended flip angles.
 #### Needs Tom input
 - TikTok/IG remain login-gated for reliable trend-audio scraping in this run. Send 3–5 seed links (TikTok/Reels audios) and I’ll run a platform-native pass around those exact sounds.
 - SearXNG is reachable locally, but major web engines returned no result payloads in this session; this pass used accessible public chart pages (kworb YouTube/Spotify) via web fetch/curl.
+
+---
+
+### 2026-03-27 — Trend Bot v1 (fans-first)
+
+**Lane:** hard trap (Juelz / Hex Cougar heavy) + Skrillex-ish drums
+
+#### Top candidates (5–10)
+1) **Zen Trap — "VIRUS" | Dark Bass Trap 2026**
+   - Link(s):
+     - https://www.youtube.com/watch?v=dWyO3qdcUYM
+   - Why it's hot: Fresh 2026 upload tagged "Dark Bass Trap" inspired by Juelz & pluko — hitting the exact hard trap lane; strong algorithmic pickup for "dark bass" searches.
+   - Nukage fit: Direct lane overlap — dark, high-energy, experimental bass; perfect for Juelz-style laser leads + Hex Cougar-weight midbass.
+   - Flip angle: Keep the virus motif → hard stop → brutal 808 slide + Skrillex-ish snare fills; second drop goes half-time stomp with metallic call/response.
+   - Content variants (3–5):
+     1) "Dark bass → hard trap" drop reveal (10s)
+     2) Finger-drumming the fill language (close-up)
+     3) DAW breakdown: drum layers + midbass design
+     4) Drop A vs Drop B switch montage
+     5) "Crowd test" mock phone-video aesthetic
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 48–72h
+
+2) **Excision & Juelz — "JUMP OUT"**
+   - Link(s):
+     - https://soundcloud.com/excision/excision-juelz-jump-out
+   - Why it's hot: 268K+ plays on the Excision collab; still circulating in hard trap / heavy bass sets; direct Juelz feature = built-in audience.
+   - Nukage fit: Already in-lane; opportunity is "Nukage VIP" with modern Skrillex drum surgery + tighter arrangement.
+   - Flip angle: Strip to vocal + 808, rebuild with granular hat textures, rim shots, and 32nd-note fills; add a surprise halftime bridge.
+   - Content variants (3–5):
+     1) "Excision x Juelz but with Nukage drums" A/B
+     2) 8s drop punch-in loop
+     3) Drum-only groove showcase (swing pattern)
+     4) VIP teaser (alternate drop rhythm)
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 3–5 days
+
+3) **Dipset / Juelz Santana — "THE TOWNS" (Type Beat 2026)**
+   - Link(s):
+     - https://soundcloud.com/ny-bangers/dipset-juelz-santana-the-towns-type-beat-2026
+     - https://www.youtube.com/watch?v=KC11zSGYCDU
+   - Why it's hot: Classic Dipset sound with 2026 production; strong reposts in East Coast rap / trap producer circles.
+   - Nukage fit: East Coast hard trap energy + modern 808 palette; easy to flip into heavier festival trap with Skrillex drum fills.
+   - Flip angle: Keep the dipset vocal ad-libs → hard trap drop with swing hats + snare cannon; add metallic laser leads.
+   - Content variants (3–5):
+     1) "East Coast → Festival trap" transformation
+     2) 10s best hook loop
+     3) Drum fill tutorial (15s)
+     4) Drop switch (A/B)
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 5–7 days
+
+4) **CRY FOR ME — Viral Trap Funk Trend**
+   - Link(s):
+     - https://www.youtube.com/watch?v=90OjQEBe2fM
+   - Why it's hot: Tagged "Insane Trap Funk Trend" + viral TikTok inspiration; emotional melodies + hard-hitting rhythm combo.
+   - Nukage fit: "Emotional vibes + hard-hitting rhythm" is exactly the Nukage DNA; perfect for dark vocal-to-drop flips.
+   - Flip angle: Preserve the emotional hook → tape stop → brutal 808 drop with Skrillex-style fills + distorted midbass.
+   - Content variants (3–5):
+     1) "Cry for me → Nukage flip" (8s)
+     2) Build fakeout then drop
+     3) Finger-drumming the fill
+     4) VIP alternate drop
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 48–72h
+
+5) **Trap Remix 2026 — TikTok Viral (Hard Rage Rap Dance Energy)**
+   - Link(s):
+     - https://www.youtube.com/watch?v=0xB7Me-uM9Y
+   - Why it's hot: Fresh upload (Mar 12, 2026) explicitly tagged "TikTok Viral" + "Hard Rage Rap Dance Energy" — direct short-form signal.
+   - Nukage fit: Hard rage rap + dance energy = perfect for Juelz-style aggressive flips; high clip-recognition potential.
+   - Flip angle: Isolate the catchiest 1–2 bar phrase → tension riser → hard trap drop with laser leads + 808 glides.
+   - Content variants (3–5):
+     1) "Hard rage → festival trap" transformation
+     2) Drop-only loop for edits
+     3) Drum pattern showcase
+     4) VIP teaser
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 24–48h
+
+6) **Brazilian Phonk / Funk — "POTÁ POTÁ" (TikTok Viral 2026)**
+   - Link(s):
+     - https://soundcloud.com/blacklbeatz/pota-pota
+   - Why it's hot: Brazilian Phonk trending hard; TikTok viral tag + strong circulation in drift/phonk communities.
+   - Nukage fit: Aggressive phonk energy translates well to harder trap; room to add Skrillex-ish drum programming.
+   - Flip angle: Keep the phonk groove → replace drums with swing-heavy trap pattern → add metallic fills + laser lead.
+   - Content variants (3–5):
+     1) "Phonk → Hard trap" A/B
+     2) Drum-only version
+     3) Performance (finger-drumming)
+     4) Drop switch
+   - Delivery: listen-only (bootleg/trend flip)
+   - Deadline: 48h
+
+7) **Skrillex — "Bangarang" (TRXGGX Flip)**
+   - Link(s):
+     - https://m.soundcloud.com/trxggx/bangarang
+   - Why it's hot: 48K+ plays; legacy anthem + "Skrillex-ish drums" lane reference; reliable nostalgia bait for clips.
+   - Nukage fit: This is the literal reference point — perfect to flip into a modern hard-trap reinterpretation.
+   - Flip angle: Keep "Bangarang" top-line, re-contextualize with hard-trap drums + modern bass stabs; huge fill into drop.
+   - Content variants (3–5):
+     1) "Nostalgia → modern drop" (10s)
+     2) Fill compilation (15s)
+     3) Crowd reaction edit
+     4) Sound design breakdown
+   - Delivery: listen-only (bootleg)
+   - Deadline: 5–7 days
+
+8) **RL GRIME & JUELZ — "Formula" (GAWM FLIP)**
+   - Link(s):
+     - https://soundcloud.com/gawmmusic/rl-grime-juelz-formula-gawm-flip
+   - Why it's hot: 214K+ plays; classic that keeps getting pulled into new sets; still active comments.
+   - Nukage fit: DNA match — hard trap fundamentals; good "reference flip" to benchmark against and outdo.
+   - Flip angle: Rebuild with modern Skrillex-esque drum programming + tighter low-end; add surprise halftime bridge.
+   - Content variants (3–5):
+     1) "VIP drop" (10s)
+     2) "Fill → drop" (15s)
+     3) "Arrangement map" on screen
+   - Delivery: listen-only (bootleg/flip)
+   - Deadline: 7–10 days
+
+#### Needs Tom input
+- TikTok/IG remain login-gated for reliable trend-audio scraping. Send 3–5 seed links (TikTok or IG Reels audio URLs) and I'll build flips around those exact sounds.
